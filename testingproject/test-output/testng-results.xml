@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-08T17:32:32 IST" name="Default suite" finished-at="2022-02-08T17:32:32 IST" duration-ms="81">
+    <groups>
+    </groups>
+    <test started-at="2022-02-08T17:32:32 IST" name="Default test" finished-at="2022-02-08T17:32:32 IST" duration-ms="81">
+      <class name="testingproject.Delta">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testingproject.Delta@460d0a57]" started-at="2022-02-08T17:32:32 IST" name="beforeClass" finished-at="2022-02-08T17:32:32 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testingproject.Delta@460d0a57]" started-at="2022-02-08T17:32:32 IST" name="beforeMethod" finished-at="2022-02-08T17:32:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testC()[pri:1, instance:testingproject.Delta@460d0a57]" started-at="2022-02-08T17:32:32 IST" name="testC" finished-at="2022-02-08T17:32:32 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testingproject.Delta@460d0a57]" started-at="2022-02-08T17:32:32 IST" name="afterMethod" finished-at="2022-02-08T17:32:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testingproject.Delta@460d0a57]" started-at="2022-02-08T17:32:32 IST" name="beforeMethod" finished-at="2022-02-08T17:32:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testA()[pri:2, instance:testingproject.Delta@460d0a57]" started-at="2022-02-08T17:32:32 IST" name="testA" finished-at="2022-02-08T17:32:32 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testingproject.Delta@460d0a57]" started-at="2022-02-08T17:32:32 IST" name="afterMethod" finished-at="2022-02-08T17:32:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testB()[pri:0, instance:testingproject.Delta@460d0a57]" started-at="2022-02-08T17:32:32 IST" name="testB" finished-at="2022-02-08T17:32:32 IST" depends-on-methods="testingproject.Delta.testC, testingproject.Delta.testA" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testingproject.Delta@460d0a57]" started-at="2022-02-08T17:32:32 IST" name="beforeMethod" finished-at="2022-02-08T17:32:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testingproject.Delta@460d0a57]" started-at="2022-02-08T17:32:32 IST" name="afterMethod" finished-at="2022-02-08T17:32:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testingproject.Delta@460d0a57]" started-at="2022-02-08T17:32:32 IST" name="afterClass" finished-at="2022-02-08T17:32:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testingproject.Delta -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
